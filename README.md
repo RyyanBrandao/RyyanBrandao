@@ -54,6 +54,6 @@ Atualmente, trabalho em uma <b>Metalúrgica</b>, mas estou estudando para migrar
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyyanBrandao&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyyanBrandao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
